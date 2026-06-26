@@ -28,7 +28,7 @@
         "id": 1780665786756,
         "title": "Huzurlu Aile Hayırlı Evlat",
         "author": "Ali Kılınç",
-        "price": 0,
+        "price": 200,
         "cat": "kisisel",
         "badge": "Yeni",
         "pages": 160,
@@ -45,7 +45,7 @@
         "paperType": "Kitap Kâğıdı",
         "dimensions": "13,5x19,5 cm",
         "newRelease": false,
-        "comingSoon": true,
+        "comingSoon": false,
         "views": 0,
         "reviews": []
     },
