@@ -22,7 +22,8 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1780665786756,
@@ -47,7 +48,8 @@
         "newRelease": false,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 2
     },
     {
         "id": 1780665058013,
@@ -72,7 +74,8 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1780139711241,
@@ -97,7 +100,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 1
     },
     {
         "id": 1780139246268,
@@ -122,7 +126,8 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1779793210915,
@@ -147,7 +152,8 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1779722542356,
@@ -172,7 +178,8 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 1,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1779627008461,
@@ -197,7 +204,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 1
     },
     {
         "id": 1779625239835,
@@ -222,6 +230,7 @@
         "comingSoon": false,
         "views": 0,
         "reviews": [],
-        "releaseDate": null
+        "releaseDate": null,
+        "externalSales": 1
     }
 ]
