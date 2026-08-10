@@ -120,7 +120,7 @@
         "bindingType": "Karton Kapak",
         "paperType": "Kitap Kâğıdı",
         "dimensions": "13,5x19,5 cm",
-        "newRelease": true,
+        "newRelease": false,
         "comingSoon": false,
         "views": 0,
         "reviews": [],
