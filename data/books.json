@@ -94,8 +94,8 @@
         "bindingType": "Amerikan Bristol",
         "paperType": "Enzo Kitap Kâğıdı",
         "dimensions": "13,5 x 21 cm",
-        "newRelease": false,
-        "comingSoon": true,
+        "newRelease": true,
+        "comingSoon": false,
         "views": 0,
         "reviews": []
     },
