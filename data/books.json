@@ -44,8 +44,8 @@
         "bindingType": "Karton Kapak",
         "paperType": "Kuşe Kâğıdı",
         "dimensions": "22 x 22 cm",
-        "newRelease": false,
-        "comingSoon": true,
+        "newRelease": true,
+        "comingSoon": false,
         "views": 0,
         "reviews": []
     },
@@ -69,8 +69,8 @@
         "bindingType": "Karton Kapak",
         "paperType": "Enzo Kitap Kâğıdı",
         "dimensions": "13,5 x 21 cm",
-        "newRelease": true,
-        "comingSoon": false,
+        "newRelease": false,
+        "comingSoon": true,
         "views": 0,
         "reviews": []
     },
