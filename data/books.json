@@ -9,7 +9,7 @@
         "pages": 198,
         "stock": null,
         "desc": "<p>Güneş aya, ay güneşe âşıktır derler ama asırlar geçse de kavuşamazlar hiç. Yaşar ile Merve’nin hikâyesi de böyle başlar: İstanbul’un kalabalığında, bir sınıfın boşluğunda karşılaşan, birbirine hiç benzemeyen iki genç. Biri mısralara âşık bir öğrenci, diğeri babasına verdiği bir sözün ağırlığını taşıyan bir kız. Aralarında doğan aşk, ikisini de bir girdabın içine çeker ve bu girdap onları ya kavuşturacak ya da sonsuza dek yutacaktır.<\/p><p>Çünkü bu bir aşk hikâyesi olmaktan çıkar. Bir gece, bir ev, bir cinayet… Ve Yaşar, sevdiği kadının katili ilan edilir. O gece evde bulunan herkes artık şüpheli, herkesin sakladığı bir şey vardır. Gerçeği ortaya çıkarmaya kararlı bir avukat ve asla ödün vermeyen bir dayının çabasıyla düğümler bir bir çözülürken okuru son sayfaya kadar nefessiz bırakan gerçek gün yüzüne çıkar.<\/p><p><em>Ali Gözüaçık<\/em>’ın kaleminden, aşkı, ihaneti ve adaleti iç içe ören; <em>3GEN<\/em>’in okurlarını bu kez bambaşka bir girdaba çeken bir roman.<\/p><p>Siz de bu girdabın içine girmeye hazır mısınız?<\/p>",
-        "cover": "https:\/\/raw.githubusercontent.com\/akgulofc\/akgul-assets\/main\/images\/img_6ab6c10247ab94.53170808.webp",
+        "cover": "\/api\/asset-proxy.php?path=images\/img_6ab6c10247ab94.53170808.webp&v=87e2cfeeda7db0499e65c0d2eca755bcdbec34f3",
         "coverFormat": "portrait",
         "listPrice": "400",
         "publishDate": "25.09.2026",
@@ -22,7 +22,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 2
     },
     {
         "id": 1787403293733,
@@ -47,7 +48,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 4
     },
     {
         "id": 1787239246524,
@@ -72,7 +74,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1787238971114,
@@ -97,7 +100,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1787238768795,
@@ -122,7 +126,8 @@
         "newRelease": true,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1784843030999,
@@ -147,7 +152,8 @@
         "newRelease": false,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1784842754760,
@@ -172,7 +178,8 @@
         "newRelease": false,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1784406068343,
@@ -197,7 +204,8 @@
         "newRelease": false,
         "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "externalSales": 0
     },
     {
         "id": 1780738696688,
