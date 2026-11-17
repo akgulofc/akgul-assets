@@ -33,7 +33,7 @@
         "title": "Belki de Süper Kahraman Olmak... 1",
         "author": "Ömer Faruk Akgül",
         "price": 0,
-        "cat": "cocuk",
+        "cat": "roman",
         "badge": null,
         "pages": 144,
         "stock": null,
@@ -51,7 +51,11 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "cats": [
+            "roman",
+            "cocuk"
+        ]
     },
     {
         "id": 1794658640720,
