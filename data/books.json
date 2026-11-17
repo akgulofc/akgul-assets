@@ -1,5 +1,33 @@
 [
     {
+        "id": 1794877453208,
+        "title": "Mårbacka Çiftliği",
+        "author": "Selma Lagerlöf",
+        "price": 250,
+        "cat": "roman",
+        "cats": [
+            "roman"
+        ],
+        "badge": null,
+        "pages": 284,
+        "stock": null,
+        "desc": "<p><em>Bazı çocukluklar hiç bitmez, anlatıla anlatıla yeniden yaşanır.<\/em><\/p><p>Mårbacka, Selma Lagerlöf'ün doğup büyüdüğü çiftliğin adı ve yazarın kendi ailesine, babasının zamanında bu topraklarda süregelen hayata tuttuğu bir ayna. Kısa öykülerden örülü bu anı kitabı, kimi zaman hüzünlü ve ürkek: Çünkü çocukluk, bir daha geri gelmeyen ve yıllarca içimizde taşıdığımız bir şeydir. Kimi zamansa sıcak ve hafif: Tüm acısı, sevinci, göreneği ve motifleriyle sevecen bir ailenin hikâyesi olduğu için.<\/p><p>Nobel Edebiyat Ödülü'nü kazanan ilk kadın yazar olan Lagerlöf, yazılarındaki yüce idealizm, canlı hayal gücü ve derin manevi sezgi nedeniyle bu onura layık görülmüştü. Mårbacka Çiftliği bugün, onun edebî mirasını yaşatan bir müze olarak ziyaretçilerini ağırlıyor.<\/p>",
+        "cover": "https:\/\/raw.githubusercontent.com\/akgulofc\/akgul-assets\/main\/images\/img_6afba7fda8b208.57357875.webp",
+        "coverFormat": "portrait",
+        "listPrice": "360",
+        "publishDate": "25.11.2026",
+        "releaseDate": null,
+        "isbn": "978-625-91980-5-7",
+        "language": "Türkçe",
+        "bindingType": "Karton Kapak",
+        "paperType": "Enzo Kitap Kâğıdı",
+        "dimensions": "13,5 x 21 cm",
+        "newRelease": false,
+        "comingSoon": true,
+        "views": 0,
+        "reviews": []
+    },
+    {
         "id": 1794660367988,
         "title": "Belki de Süper Kahraman Olmak... 2",
         "author": "Ömer Faruk Akgül",
