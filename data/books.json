@@ -338,7 +338,11 @@
         "comingSoon": false,
         "views": 0,
         "reviews": [],
-        "externalSales": 0
+        "externalSales": 0,
+        "cats": [
+            "roman",
+            "felsefe"
+        ]
     },
     {
         "id": 1780738696688,
