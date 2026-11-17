@@ -4,12 +4,12 @@
         "title": "Belki de Süper Kahraman Olmak... 2",
         "author": "Ömer Faruk Akgül",
         "price": 235,
-        "cat": "cocuk",
+        "cat": "roman",
         "badge": null,
         "pages": 168,
         "stock": null,
         "desc": "<p>Kemal artık biraz daha büyüdü. Köyde herkes ona hâlâ <em>“Süper Kemal”<\/em> diyor. Ama bu unvanı taşımak sandığından da zor.<\/p><p>Bu kitapta Kemal, elleri titremeye başlayan dedesiyle armut ağaçlarına aşı yapıyor. Haksız yere suçlanan bir arkadaşı için sesini yükseltiyor. Kıskançlıkla, affetmenin zorluğuyla ve kendi gururuyla yüzleşiyor. Küçük Yasemin’e sabırla harf öğretiyor, yaşlı bir gaziyi bütün köyle buluşturuyor, yıllardır susan bir bağlamayı yeniden çaldırıyor.<\/p><p>Ve sonunda en büyük sırrı keşfediyor: Süper kahramanlık kimseye özel değildir. Herkesin kalbinde gizlidir; yalnızca fark edilmeyi bekler.<\/p>",
-        "cover": "https:\/\/raw.githubusercontent.com\/akgulofc\/akgul-assets\/main\/images\/img_6af857ebcdf7b7.51559930.webp",
+        "cover": "\/api\/asset-proxy.php?path=images\/img_6af857ebcdf7b7.51559930.webp&v=f6f2ec19f31c81a48154dc39181450217481b883",
         "coverFormat": "portrait",
         "listPrice": "330",
         "publishDate": "20.11.2026",
@@ -22,7 +22,11 @@
         "newRelease": false,
         "comingSoon": true,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "cats": [
+            "roman",
+            "cocuk"
+        ]
     },
     {
         "id": 1794659985503,
