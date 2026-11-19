@@ -12,7 +12,7 @@
         "pages": 284,
         "stock": null,
         "desc": "<p><em>Bazı çocukluklar hiç bitmez, anlatıla anlatıla yeniden yaşanır.<\/em><\/p><p>Mårbacka, Selma Lagerlöf'ün doğup büyüdüğü çiftliğin adı ve yazarın kendi ailesine, babasının zamanında bu topraklarda süregelen hayata tuttuğu bir ayna. Kısa öykülerden örülü bu anı kitabı, kimi zaman hüzünlü ve ürkek: Çünkü çocukluk, bir daha geri gelmeyen ve yıllarca içimizde taşıdığımız bir şeydir. Kimi zamansa sıcak ve hafif: Tüm acısı, sevinci, göreneği ve motifleriyle sevecen bir ailenin hikâyesi olduğu için.<\/p><p>Nobel Edebiyat Ödülü'nü kazanan ilk kadın yazar olan Lagerlöf, yazılarındaki yüce idealizm, canlı hayal gücü ve derin manevi sezgi nedeniyle bu onura layık görülmüştü. Mårbacka Çiftliği bugün, onun edebî mirasını yaşatan bir müze olarak ziyaretçilerini ağırlıyor.<\/p>",
-        "cover": "https:\/\/raw.githubusercontent.com\/akgulofc\/akgul-assets\/main\/images\/img_6afba7fda8b208.57357875.webp",
+        "cover": "\/api\/asset-proxy.php?path=images\/img_6afba7fda8b208.57357875.webp&v=c009ca4f1f48076d0cf51e040733851396f5e042",
         "coverFormat": "portrait",
         "listPrice": "360",
         "publishDate": "25.11.2026",
@@ -105,10 +105,13 @@
         "bindingType": "Karton Kapak",
         "paperType": "Kuşe Kâğıdı",
         "dimensions": "16 x 24 cm",
-        "newRelease": false,
-        "comingSoon": true,
+        "newRelease": true,
+        "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "cats": [
+            "cocuk"
+        ]
     },
     {
         "id": 1794658289792,
