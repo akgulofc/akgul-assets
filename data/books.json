@@ -133,10 +133,13 @@
         "bindingType": "Karton Kapak",
         "paperType": "Kuşe Kâğıdı",
         "dimensions": "16 x 24 cm",
-        "newRelease": false,
-        "comingSoon": true,
+        "newRelease": true,
+        "comingSoon": false,
         "views": 0,
-        "reviews": []
+        "reviews": [],
+        "cats": [
+            "cocuk"
+        ]
     },
     {
         "id": 1792680390629,
